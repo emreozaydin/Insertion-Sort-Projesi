@@ -37,4 +37,15 @@ O(n^2)
 
 Yukarıdaki açıklamaya göre 18 sayısı dizinin ortasında bulunduğu için Avarage Case kapsamına girer.
 
+### [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
+
+1. [3,7,5,8,2,9,4,15,6] Önce 3 kendini 7 ile kıyaslar ve sola geçer.
+
+2. [3,5,7,8,2,9,4,15,6] 5 kendini 7 ile kıyaslar ve sola geçer. Sonra kendini 3 ile kıyaslar, daha küçük olmadığı için yerinde kalır.
+
+3. [3,5,7,2,8,9,4,15,6] 8 kendini 7 ile kıyaslar, daha büyük olduğu için yerinde kalır. sonra 2 ile kendini kıyaslar. 2 daha küçük olduğu için yer değiştirir.
+
+4. [2,3,5,7,8,9,4,15,6] 2 kendini 7 ile kıyaslar, 2 daha küçük olduğu için önce 7 ile yer değiştirir. Sonra kendisini 5 ile kıyaslar, ondan da küçük olduğu için yer değiştirir. Sonra kendini 3 ile kıyaslar ve onunla da yer değiştirir.
+
+
 ![readme2](https://user-images.githubusercontent.com/111632775/186390423-13a036b0-a231-451d-ba88-b3ea0043583e.JPG)
