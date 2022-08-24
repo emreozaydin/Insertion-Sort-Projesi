@@ -36,3 +36,5 @@ O(n^2)
 ### 4. Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
 Yukarıdaki açıklamaya göre 18 sayısı dizinin ortasında bulunduğu için Avarage Case kapsamına girer.
+
+![readme2](https://user-images.githubusercontent.com/111632775/186390423-13a036b0-a231-451d-ba88-b3ea0043583e.JPG)
